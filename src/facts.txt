@@ -1,0 +1,2 @@
+FP = A,B
+FB = D,O,G
